@@ -16,9 +16,19 @@ AI 工具加载此技能后，能够：
 
 ## 安装
 
+### WorkBuddy / Codex
+
 ```bash
-# 将本仓库 clone 到 AI 工具的 skills 目录下
+clawhub install 马拉松个人赛历和推荐
+```
+
+或通过技能市场搜索"马拉松"安装。
+
+### 手动安装
+
+```bash
 git clone https://github.com/njzyshare/marathon-calendar-skill.git
+# 将 clone 后的目录放到 AI 工具的 skills 目录下
 ```
 
 ## 目录结构
