@@ -69,4 +69,4 @@ agent_created: true
 - 所有路径使用相对路径
 
 ## 版本
-v1.5 — 脱敏处理：移除福建等硬编码的地理信息，改为上下文变量；同步最新HTML排版规则（爬升右侧、颜色区分、3行布局）；更新report_style/geo_rules/ranking_rules/required_fields
+v1.6 — 同步最新HTML排版：右侧3行(st→d→c)，图标统一(✅⏳❌)，板块按A类+/非A有特色分类；更新report_style/ranking_rules报告结构；脱敏检查通过
